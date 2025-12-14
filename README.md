@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danirudodangoda2003&label=Profile%20views&color=0e75b6&style=flat" alt="danirudodangoda2003" /> </p>
 
-- 🔭 I’m currently working on **AI-Powered Product Launch Planner**
-
 - 🌱 I’m currently learning **Large Language Models (LLMs), RAG, and Cloud Computing (AWS/Azure)**
 
 - 👯 I’m looking to collaborate on **Innovative AI & Machine Learning Projects**

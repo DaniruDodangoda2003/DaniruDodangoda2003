@@ -9,8 +9,7 @@ I am a 3rd-year **Data Science Undergraduate** at **SLIIT** (Sri Lanka Institute
 
 I specialize in **Generative AI** (LangChain/RAG) and **Data Analytics**, helping transform raw data into actionable insights.
 
-- 🎓 **Education:** BSc (Hons) in IT Specializing in Data Science at SLIIT (GPA: 3.6)
-- 🔭 **I’m currently working on:** Building autonomous AI agents for market analysis.
+- 🎓 **Education:** BSc (Hons) in IT Specializing in Data Science at SLIIT
 - 🌱 **I’m currently learning:** Advanced RAG architectures and LangGraph.
 - 👯 **I’m looking to collaborate on:** Open Source AI/ML projects.
 - 💬 **Ask me about:** Python, Machine Learning (XGBoost), LangChain, and n8n.

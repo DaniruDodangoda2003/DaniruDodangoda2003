@@ -10,6 +10,7 @@ I am a 3rd-year **Data Science Undergraduate** at **SLIIT** (Sri Lanka Institute
 I specialize in **Generative AI** (LangChain/RAG) and **Data Analytics**, helping transform raw data into actionable insights.
 
 - 🎓 **Education:** BSc (Hons) in IT Specializing in Data Science at SLIIT
+- 🔭 **I’m currently working on:** Building autonomous AI agents for market analysis.
 - 🌱 **I’m currently learning:** Advanced RAG architectures and LangGraph.
 - 👯 **I’m looking to collaborate on:** Open Source AI/ML projects.
 - 💬 **Ask me about:** Python, Machine Learning (XGBoost), LangChain, and n8n.
@@ -52,10 +53,8 @@ I specialize in **Generative AI** (LangChain/RAG) and **Data Analytics**, helpin
 
 ---
 
-### 📊 GitHub Stats
-
+### 💻 Languages Overview
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniruDodangoda2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniruDodangoda2003&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
 

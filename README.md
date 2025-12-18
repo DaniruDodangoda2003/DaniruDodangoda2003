@@ -44,10 +44,10 @@ I specialize in **Generative AI** (LangChain/RAG) and **Data Analytics**, helpin
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 Market Trend AI Agent** | An autonomous agent that monitors news APIs to detect viral trends and forecast sales using LangChain. | `Python` `LangChain` `Streamlit` |
-| **📈 Developer Employability Predictor** | A Machine Learning model (81% accuracy) trained on 73,000+ records to predict developer job success. | `XGBoost` `Scikit-Learn` `Plotly` |
-| **🚦 MPNN Traffic Optimizer** | A custom Message Passing Neural Network implemented from scratch (no GNN libraries) to simulate traffic flow. | `Python` `NumPy` `Graph Theory` |
-| **🍲 Hodahitha.lk** | A food redistribution platform connecting volunteers with surplus food donors. | `MERN Stack` `MongoDB` `Node.js` |
+| **🤖 AI-Product-Launch-Planner** | An autonomous agent that monitors news APIs to detect viral trends and forecast sales using LangChain. | `Python` `LangChain` `Streamlit` |
+| **📈 PredSeeker-Employability-AI** | A Machine Learning model (81% accuracy) trained on 73,000+ records to predict developer job success. | `XGBoost` `Scikit-Learn` `Plotly` |
+| **🚦 MPNN-Traffic-Optimizer** | A custom Message Passing Neural Network implemented from scratch (no GNN libraries) to simulate traffic flow. | `Python` `NumPy` `Graph Theory` |
+| **🍲 Hodahitha-Food-Redistribution** | A food redistribution platform connecting volunteers with surplus food donors. | `MERN Stack` `MongoDB` `Node.js` |
 
 ---
 

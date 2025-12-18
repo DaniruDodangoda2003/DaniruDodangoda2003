@@ -5,12 +5,13 @@
 </div>
 
 ### 🚀 About Me
-I am a 3rd-year **Data Science Undergraduate** at **SLIIT** (Sri Lanka Institute of Information Technology), passionate about building **AI Agents**, **Machine Learning Models**, and **Automated Pipelines**. 
+I am a 3rd-year **Data Science Undergraduate** at **SLIIT** (Sri Lanka Institute of Information Technology), passionate about building **AI Agents** and **Machine Learning Models**.
 
-I specialize in **Generative AI** (LangChain/RAG) and **Data Analytics**, helping transform raw data into actionable insights.
+I focus on **Generative AI** (LangChain/RAG) and **Data Analytics**, helping transform raw data into actionable insights.
 
 - 🎓 **Education:** BSc (Hons) in IT Specializing in Data Science at SLIIT
-- 👯 **I’m looking to collaborate on:** Open Source AI/ML projects.
+- 🏆 **Awards:** Dean's List Award (2024) & AI/ML Engineer Certification (Stage 2)
+- ⚡ **Fun Fact:** I hold a Visharad Degree in Music! 🎼
 - 💬 **Ask me about:** Python, Machine Learning (XGBoost), LangChain, and n8n.
 
 ---
@@ -44,10 +45,10 @@ I specialize in **Generative AI** (LangChain/RAG) and **Data Analytics**, helpin
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 AI-Product-Launch-Planner** | An autonomous agent that monitors news APIs to detect viral trends and forecast sales using LangChain. | `Python` `LangChain` `Streamlit` |
-| **📈 PredSeeker-Employability-AI** | A Machine Learning model (81% accuracy) trained on 73,000+ records to predict developer job success. | `XGBoost` `Scikit-Learn` `Plotly` |
-| **🚦 MPNN-Traffic-Optimizer** | A custom Message Passing Neural Network implemented from scratch (no GNN libraries) to simulate traffic flow. | `Python` `NumPy` `Graph Theory` |
-| **🍲 Hodahitha-Food-Redistribution** | A food redistribution platform connecting volunteers with surplus food donors. | `MERN Stack` `MongoDB` `Node.js` |
+| **🤖 AI-Product-Launch-Planner** | Autonomous Market Trend Analysis Agent utilizing LangChain and News APIs to detect viral trends and forecast sales. | `Python` `LangChain` `Streamlit` |
+| **📈 PredSeeker-Employability-AI** | Machine Learning classification model (XGBoost) achieving 81% accuracy in predicting developer employability. | `XGBoost` `Scikit-Learn` `Plotly` |
+| **🚦 MPNN-Traffic-Optimizer** | Custom Message Passing Neural Network (MPNN) implementation from scratch to simulate and optimize traffic flow. | `Python` `NumPy` `Graph Theory` |
+| **🍲 Hodahitha-Food-Redistribution** | Full-stack volunteer management platform connecting surplus food donors with NGOs. | `MERN Stack` `MongoDB` `Node.js` |
 
 ---
 

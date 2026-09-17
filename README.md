@@ -128,10 +128,6 @@ Git • GitHub • Docker • AWS • Jupyter Notebook
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://github.com/DaniruDodangoda2003">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-
 <a href="https://linkedin.com/in/daniru-dodangoda">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>

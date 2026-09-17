@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniru Dodangoda</h1>
 
 <h3 align="center">
-AI/ML & Data Science Undergraduate | Machine Learning Engineer | Data Enthusiast
+Data Science Undergraduate | Machine Learning Engineer | Data Enthusiast
 </h3>
 
 <p align="center">
@@ -121,18 +121,6 @@ Spring Boot • React • MongoDB • REST APIs • JWT • WebSockets
 ### Tools
 <p>
 Git • GitHub • Docker • AWS • Jupyter Notebook
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DaniruDodangoda2003&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniruDodangoda2003&theme=tokyonight" />
-
 </p>
 
 ---
